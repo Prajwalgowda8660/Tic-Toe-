@@ -42,7 +42,7 @@ You need a modern web browser to run this game.
 
 1. Clone the repo:<br><br>
    ```sh
-   git clone https://github.com/sharath453/Tic_Tac_Toe_Game.git
+   git clone https://github.com/Prajwalgowdagowda65/Tic-Toe.git
 2. Open the index.html file in your browser to start the game.
 3. Run the project in live server of preferred Browser.
    
@@ -58,8 +58,6 @@ You need a modern web browser to run this game.
 4. Responsive design
    
 # Contact
-Email - alsharath66@gmail.com<br>
-LinkedIn - [Sharath A L](https://www.linkedin.com/in/sharath-a-l-877754249/)
+Email - prajwalgowdagowda65@gmail.com<br>
+LinkedIn - [PRAJWAL GOWDA HG](https://www.linkedin.com/in/prajwal-gowda-h-g-148534242/)
 
-# Project Link : 
-https://github.com/sharath453/Tic_Tac_Toe_Game.git
